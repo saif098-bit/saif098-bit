@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:D97757&height=200&section=header&text=Malik%20Saifullah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Agentic%20AI%20%26%20LLM-Powered%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://portfolio-six-plum-87.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Developer;LLM+%26+Generative+AI+Engineer;Backend+Developer+(Flask+%2F+APIs)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Developer;LLM+%26+Generative+AI+Engineer;Backend+Developer+(Flask+%2F+APIs)" alt="Typing SVG" />
 </a>
 
 <br/>
