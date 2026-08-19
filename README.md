@@ -3,17 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:D97757&height=200&section=header&text=Malik%20Saifullah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Agentic%20AI%20%26%20LLM-Powered%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://portfolio-six-plum-87.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Developer;LLM+%26+Generative+AI+Engineer;Backend+Developer+(Flask+%2F+APIs);AI-Powered+App+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+Developer;LLM+%26+Generative+AI+Engineer;Backend+Developer+(Flask+%2F+APIs)" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-plum-87.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah-ai-enginner/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923245508254)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ### 🚀 Currently
 
@@ -31,7 +32,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ### 🛠️ Featured Projects
 
@@ -59,7 +60,7 @@ Flask chatbot answering hotel FAQs via fuzzy matching against a SQLite knowledge
 Responsive Next.js portfolio with a custom animated hero, scroll-triggered reveals, and a Groq-powered AI chatbot answering visitor questions from the site's own content.
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Groq API`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ### 🧰 Toolbox
 
@@ -93,7 +94,7 @@ Responsive Next.js portfolio with a custom animated hero, scroll-triggered revea
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
 
 ### 📊 GitHub Stats
 
@@ -114,6 +115,6 @@ Responsive Next.js portfolio with a custom animated hero, scroll-triggered revea
 <div align="center">
 
 📫 **Let's talk** — open to internships, collaborations, and interesting agentic AI / backend problems.
-[Portfolio](https://portfolio-six-plum-87.vercel.app) · [LinkedIn](https://www.linkedin.com/in/saifullah-ai-enginner/)
+[Portfolio](https://portfolio-six-plum-87.vercel.app) · [LinkedIn](https://www.linkedin.com/in/saifullah-ai-enginner/) · [WhatsApp](https://wa.me/923245508254)
 
 </div>
