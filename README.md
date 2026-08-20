@@ -256,9 +256,12 @@ Open to backend engineering and AI/ML internships, and conversations about agent
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=saif098-bit&style=flat-square&color=FF2D55&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsaif098-bit%2Fsaif098-bit.json%3Fcolor%3D8B5CF6&style=for-the-badge&label=VIEWS&labelColor=0B0B0F" />
 
 <br/><br/>
-<sub>© 2026 Malik Saifullah</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:1F2937&height=100&section=footer" />
+
+<sub>© 2026 Malik Saifullah — Built with intent, not templates.</sub>
 
 </div>
