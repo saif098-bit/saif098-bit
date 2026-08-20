@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="./assets/profile.jpg" width="180" alt="Malik Saifullah — AI Engineer and Backend Developer" />
 </p>
@@ -387,4 +386,3 @@ If you're working on an AI application, backend system, automation workflow, or 
 <p align="center">
   <sub>AI engineering · Backend systems · Machine learning · Agentic AI · Automation</sub>
 </p>
-```
