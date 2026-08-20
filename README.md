@@ -1,180 +1,164 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=170&section=header&text=MALIK%20SAIFULLAH&fontSize=40&fontColor=60A5FA&fontAlignY=52&desc=AI%20Engineer%20·%20Backend%20Developer%20·%20Agentic%20AI&descAlignY=72&descSize=15&descColor=94A3B8&animation=fadeIn" />
-
-<img src="https://raw.githubusercontent.com/saif098-bit/saif098-bit/main/profile.jpg" width="165" height="165" style="border-radius:50%;object-fit:cover;object-position:center 15%;border:3px solid #60A5FA;box-shadow:0 0 20px rgba(96,165,250,0.4);" alt="Malik Saifullah" />
-
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+backend+infrastructure+for+AI+systems;Flask+%2B+PostgreSQL+%2B+LLM-powered+automation;BS+Artificial+Intelligence+%40+University+of+Haripur" alt="Typing SVG" />
-
-<br />
-
-<p>
-<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-60A5FA?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EF4444?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/saif098-bit"><img src="https://img.shields.io/badge/GITHUB-1F2937?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=saif098-bit&style=flat-square&color=60A5FA&label=PROFILE+VIEWS" />
-</p>
-
-<sub>📍 Abbottabad, Pakistan &nbsp;·&nbsp; 🎓 CGPA 3.89/4.00 &nbsp;·&nbsp; Expected Graduation 2027</sub>
-
-<br /><br />
-
-<a href="#about"><b>About</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#timeline"><b>Timeline</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#projects"><b>Projects</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#stack"><b>Stack</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#certifications"><b>Certifications</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#activity"><b>Activity</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#contact"><b>Contact</b></a>
-
-</div>
-
-<br />
-
-<h2 id="about">🧠&nbsp; About</h2>
-
-I build the backend infrastructure that makes AI systems actually work — REST APIs, databases, and orchestration layers underneath LLM-powered features, not just the demo layer on top of them.
-
-BS Artificial Intelligence student at the **University of Haripur**, with hands-on work across backend engineering, machine learning, agentic AI, and LLM-powered applications. My projects span Flask REST APIs, role-based platforms with real authentication, and n8n/LangChain automation pipelines wired to Groq, OpenAI, and local Ollama inference.
-
-|  |  |
-|---|---|
-| 🔧 **Currently building** | Scalable CRUD APIs — Flask + PostgreSQL + Supabase, at FlyRank AI |
-| ⚙️ **Currently orchestrating** | LLM agent workflows via n8n + LangChain |
-
-<br />
-
-<h2 id="timeline">📅&nbsp; Timeline</h2>
-
-| When | Role | Organization | Highlights |
-|---|---|---|---|
-| **2026 – Present** | Backend Engineering Intern | FlyRank AI | Built a CRUD API from scratch on `Flask` + `PostgreSQL` + `Supabase`, applying REST API design under the mentorship of the Director of AI & Analytics. [→ Repo](https://github.com/saif098-bit/backend-engineering-internship) |
-| **Jul – Aug 2026** | Data Annotator | InfinityWave Inc. | Labeled and structured datasets for ML training pipelines, with quality-control practices for annotation consistency. |
-| **Jul – Aug 2026** | Social Work Volunteer | Al-Khidmat Pakistan | Community outreach and service delivery; developed communication and leadership skills. |
-| **2023 – 2027** | BS Artificial Intelligence | University of Haripur | CGPA 3.89 / 4.00. Coursework and independent projects in ML, computer vision, and agentic AI. |
-
-<br />
-
-<h2 id="projects">🚀&nbsp; Featured Projects</h2>
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| ⚡ **AI Email Automation Agent** | n8n workflow polling Gmail, classifying intent via LangChain, generating replies with Groq's Llama 3.1 8B — validated against a Google Sheets evaluation pipeline. | `n8n` `Groq` `LangChain` | [Repo](https://github.com/saif098-bit/AI-Email-Automation-Agent) |
-| 🏨 **AI Hotel Assistant Chatbot** | Flask chatbot answering hotel FAQs via fuzzy matching against SQLite, falling back to local Ollama (Phi-3/Mistral) for open-ended queries. | `Flask` `SQLite` `Ollama` | [Repo](https://github.com/saif098-bit/hotelbot) |
-| 💊 **Smart Medicine Inventory System** | Full-stack pharmacy platform with real-time low-stock dashboards, an OpenAI/Groq chatbot, and DSA-based visualizations — offline-capable PWA. | `Flask` `SQLAlchemy` `OpenAI` | [Repo](https://github.com/saif098-bit/smart-medicine-system) |
-| 🎓 **Smart Attendance Management System** | Role-based platform with Flask-Login auth, PostgreSQL backend, automating 75% attendance-eligibility enforcement with Matplotlib reporting. | `Flask` `PostgreSQL` `Matplotlib` | [Repo](https://github.com/saif098-bit/Smart-Attendance-System) |
-| ☁️ **Cloud Order-Processing Simulator** | Flask REST API with a thread-safe FCFS scheduler dispatching orders across simulated VMs, exposing live throughput metrics. | `Flask` `Threading` `Gunicorn` | [Repo](https://github.com/saif098-bit/FCFS-Scheduling) |
-| 🌐 **Personal Portfolio** | Responsive Next.js site with a custom animated hero and a Groq-powered chatbot answering visitor questions from the site's own content. | `Next.js` `TypeScript` `Groq` | [Repo](https://github.com/saif098-bit/Portfolio) · [Live](https://portfolio-six-plum-87.vercel.app) |
-
-<br />
-
-<h2 id="stack">🛠️&nbsp; Technical Arsenal</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,flask,postgres,sqlite,git,github,vercel,openai,pandas,tensorflow&theme=dark" />
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td valign="top" width="33%">
-
-**Backend & APIs**
-<br/>Flask-SQLAlchemy · Flask-Login
-<br/>Flask-CORS · REST API Design
-<br/>Gunicorn / WSGI
-
+<td width="35%" align="center">
+<img src="assets/profile.jpg" width="230" style="border-radius:8px;object-fit:cover;" alt="Malik Saifullah" />
 </td>
-<td valign="top" width="33%">
-
-**AI / ML / Agentic**
-<br/>Machine Learning · Computer Vision
-<br/>Agentic AI · Prompt Engineering
-<br/>LLMs · Generative AI
-
-</td>
-<td valign="top" width="33%">
-
-**AI Platforms**
-<br/>n8n · LangChain · Groq API
-<br/>OpenAI API · Ollama
-<br/>Claude (Anthropic)
-
+<td width="65%">
+<h1>MALIK SAIFULLAH</h1>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=FF2D55&background=00000000&center=false&vCenter=true&width=560&lines=AI+Engineer;Backend+Developer;Machine+Learning+Engineer;Agentic+AI+Developer" alt="Typing SVG" />
+<p style="max-width:520px;">Building intelligent systems that connect AI models with real, working backend software — not just the demo layer on top of them.</p>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-FF2D55?style=flat-square&labelColor=050505" />
+&nbsp;
+<img src="https://img.shields.io/badge/CGPA-3.89%2F4.00-8B5CF6?style=flat-square&labelColor=050505" />
 </td>
 </tr>
 </table>
-
-<br />
-
-<h2 id="certifications">📜&nbsp; Certifications</h2>
-
+<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B0B0F?style=for-the-badge&logo=vercel&logoColor=FF2D55" /></a>
+<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=FF2D55" /></a>
+<a href="https://github.com/saif098-bit"><img src="https://img.shields.io/badge/GITHUB-0B0B0F?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+<sub>Abbottabad, Pakistan  ·  University of Haripur  ·  Expected 2027</sub>
+<br/><br/>
+<a href="#about">ABOUT</a>  / 
+<a href="#experience">EXPERIENCE</a>  / 
+<a href="#stack">STACK</a>  / 
+<a href="#projects">PROJECTS</a>  / 
+<a href="#activity">ACTIVITY</a>  / 
+<a href="#certifications">CERTIFICATIONS</a>  / 
+<a href="#contact">CONTACT</a>
+</div>
+<br/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square" width="100%" height="2" />
+<h2 id="about">About</h2>
+I'm a BS Artificial Intelligence student at the University of Haripur, working at the intersection of backend engineering and applied AI — REST APIs, relational databases, and agentic automation pipelines built on top of LLMs like Groq, OpenAI, and locally-hosted Ollama models.
+My work isn't theoretical. Every project below is a working system: an API that runs, an agent that classifies real email, a dashboard that queries a real database. That's the standard I hold my own code to.
+<br/>
+<h2 id="experience">Experience</h2>
+<table>
+<tr><td width="140" valign="top"><b>2026 – Present</b></td><td valign="top">
+Backend Engineering Intern — FlyRank AI
+Built a CRUD API from scratch on Flask, PostgreSQL, and Supabase, applying REST API design principles under the mentorship of the Director of AI & Analytics. Part of an 8-week structured backend track covering auth, database integration, and API documentation.
+→ github.com/saif098-bit/backend-engineering-internship
+</td></tr>
+<tr><td valign="top"><b>Jul – Aug 2026</b></td><td valign="top">
+Data Annotator — InfinityWave Inc.
+Labeled and structured datasets for ML model training pipelines; enforced quality-control practices for annotation consistency across large datasets.
+</td></tr>
+<tr><td valign="top"><b>Jul – Aug 2026</b></td><td valign="top">
+Social Work Volunteer — Al-Khidmat Pakistan
+Community outreach and service-delivery initiatives.
+</td></tr>
+</table>
+<br/>
+<h2 id="stack">Engineering Stack</h2>
+<table>
+<tr>
+<td valign="top" width="20%"><b>AI / ML</b></td>
+<td valign="top">Python · Machine Learning · Computer Vision · Agentic AI · LLMs · Generative AI · Prompt Engineering</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td valign="top">Flask · Flask-SQLAlchemy · Flask-Login · Flask-CORS · REST API Design · Gunicorn / WSGI</td>
+</tr>
+<tr>
+<td valign="top"><b>AI Platforms</b></td>
+<td valign="top">n8n · LangChain · Groq API · OpenAI API · Ollama · Claude (Anthropic)</td>
+</tr>
+<tr>
+<td valign="top"><b>Data</b></td>
+<td valign="top">NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow (fundamentals)</td>
+</tr>
+<tr>
+<td valign="top"><b>Databases</b></td>
+<td valign="top">PostgreSQL · MySQL · SQLite</td>
+</tr>
+<tr>
+<td valign="top"><b>Engineering</b></td>
+<td valign="top">Git · GitHub · Vercel · Render · Railway · C++ · SQL · HTML</td>
+</tr>
+</table>
+<br/>
+<h2 id="projects">Featured Engineering Projects</h2>
+AI Email Automation Agent
+An n8n workflow that polls Gmail, classifies each message as an order or an inquiry using a LangChain text classifier, then drafts a reply with Groq's Llama 3.1 8B. Classification accuracy was validated through a parallel Google Sheets evaluation pipeline before deployment.
+`n8n` `Groq (Llama 3.1)` `LangChain` `Google Sheets`
+→ Repository
+Smart Medicine Inventory System
+Full-stack pharmacy inventory platform: real-time dashboards flagging expired and low-stock items, an AI assistant chatbot (OpenAI with Groq fallback), and DSA-based visualizations (stack/queue/priority queue) for undo history — shipped as an offline-capable PWA.
+`Python` `Flask` `SQLAlchemy` `SQLite` `OpenAI` `Groq`
+→ Repository
+<details>
+<summary><b>Other Projects</b></summary>
+<br/>
+Smart Attendance Management System
+Role-based (admin/teacher/student) attendance platform with Flask-Login authentication and a PostgreSQL/SQLite backend, automating 75% attendance-eligibility enforcement with Excel and Matplotlib reporting.
+`Python` `Flask` `PostgreSQL` `Matplotlib`
+→ Repository
+AI Hotel Assistant Chatbot
+Flask chatbot answering hotel FAQs via fuzzy string matching against a SQLite knowledge base, falling back to a locally hosted LLM (Ollama — Phi-3/Mistral) for open-ended queries, with logging for continuous FAQ improvement.
+`Python` `Flask` `SQLite` `Ollama`
+→ Repository
+Cloud Order-Processing Simulator (FCFS Scheduling)
+Flask REST API with a thread-safe FCFS scheduler that queues and dispatches orders across simulated virtual machines, exposing live waiting-time, response-time, and throughput metrics for serverless and WSGI deployment.
+`Python` `Flask` `Threading` `Gunicorn`
+→ Repository
+Personal Portfolio
+Responsive Next.js portfolio with a custom animated hero and a Groq-powered chatbot answering visitor questions from the site's own content.
+`Next.js` `TypeScript` `Tailwind CSS` `Groq API`
+→ Repository · Live
+</details>
+<br/>
+<h2 id="activity">GitHub Activity</h2>
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saif098-bit&show_icons=true&hide_border=true&bg_color=050505&title_color=FF2D55&icon_color=8B5CF6&text_color=F5F5F5" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif098-bit&layout=compact&hide_border=true&bg_color=050505&title_color=FF2D55&text_color=F5F5F5" />
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saif098-bit/saif098-bit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saif098-bit/saif098-bit/output/github-snake.svg" />
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/saif098-bit/saif098-bit/output/github-snake.svg" width="100%" />
+</picture>
+</div>
+<br/>
+<h2 id="certifications">Certifications</h2>
 <details>
 <summary><b>AI, LLMs & Agentic AI</b></summary>
-<br />
-
-- Anthropic Academy — Claude 101, Claude Code 101, Claude Code in Action, Introduction to Claude Cowork
-- Anthropic Academy — AI Fluency: Capabilities & Limitations, Framework & Foundations, for Builders, for Students, for Small Businesses, for Educators, for Nonprofits, Teaching the AI Fluency Framework
-- Microsoft — Design AI Agents for Business Solutions
-- Microsoft — Monitor, Analyze, and Tune AI Agents
-- Microsoft — Introduction to Agentic AI Business Solutions
-- Dubai Centre for Artificial Intelligence (Dubai Future Foundation) — One Million Prompters
-
+<br/>
+Anthropic Academy — Claude 101, Claude Code 101, Claude Code in Action, Introduction to Claude Cowork
+Anthropic Academy — AI Fluency: Capabilities & Limitations, Framework & Foundations, for Builders, for Students, for Small Businesses, for Educators, for Nonprofits, Teaching the AI Fluency Framework
+Microsoft — Design AI Agents for Business Solutions
+Microsoft — Monitor, Analyze, and Tune AI Agents
+Microsoft — Introduction to Agentic AI Business Solutions
+Dubai Centre for Artificial Intelligence (Dubai Future Foundation) — One Million Prompters
 </details>
-
 <details>
 <summary><b>Responsible AI & Prompt Engineering</b></summary>
-<br />
-
-- Microsoft — Design Responsible AI Security, Governance, Risk Management, and Compliance
-- Volume Up with SES — Are Prompts The New Programming Language
-
+<br/>
+Microsoft — Design Responsible AI Security, Governance, Risk Management, and Compliance
+Volume Up with SES — Are Prompts The New Programming Language
 </details>
-
 <details>
 <summary><b>Other Professional Certifications</b></summary>
-<br />
-
-- Machine Learning Internship Certificate
-- Cyber Security Internship Certificate
-- Graphic Designing Certification
-
+<br/>
+Machine Learning Internship Certificate
+Cyber Security Internship Certificate
+Graphic Designing Certification
 </details>
-
-<br />
-
-<h2 id="activity">📊&nbsp; GitHub Activity</h2>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saif098-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif098-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saif098-bit&hide_border=true&background=0D1117&stroke=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saif098-bit&bg_color=0D1117&color=60A5FA&line=60A5FA&point=C9D1D9&area=true&hide_border=true" />
-
-</div>
-
-<br />
-
-<h2 id="contact">📬&nbsp; Contact</h2>
-
-<div align="center">
-
+<br/>
+<h2 id="education">Education</h2>
+Bachelor of Science in Artificial Intelligence — University of Haripur
+Expected Graduation: 2027 · CGPA: 3.89 / 4.00
+<br/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square" width="100%" height="2" />
+<div align="center" id="contact">
+<h2>Contact</h2>
 Open to backend engineering and AI/ML internships, and conversations about agentic AI or LLM-powered systems.
-
-<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-60A5FA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br /><br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:0D1117&height=110&section=footer" />
-
+<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=FF2D55" /></a>
+<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B0B0F?style=for-the-badge&logo=vercel&logoColor=FF2D55" /></a>
+<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=saif098-bit&style=flat-square&color=FF2D55&label=PROFILE+VIEWS" />
+<br/><br/>
 <sub>© 2026 Malik Saifullah</sub>
-
 </div>
