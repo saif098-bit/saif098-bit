@@ -158,8 +158,14 @@ Responsive Next.js portfolio with a custom animated hero and a Groq-powered chat
 
 <div align="center">
 
-<img height="160" src="https://github-stats-extended.vercel.app/api?username=saif098-bit&show_icons=true&hide_border=true&bg_color=050505&title_color=FF2D55&icon_color=8B5CF6&text_color=F5F5F5" />
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saif098-bit&layout=compact&hide_border=true&bg_color=050505&title_color=FF2D55&text_color=F5F5F5" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=saif098-bit&show_icons=true&hide_border=false&bg_color=050505&title_color=FF2D55&icon_color=8B5CF6&text_color=F5F5F5&border_color=8B5CF6" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=saif098-bit&show_icons=true&hide_border=false&bg_color=ffffff&title_color=FF2D55&icon_color=8B5CF6&text_color=1F2937&border_color=FF2D55" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=saif098-bit&layout=compact&hide_border=false&bg_color=050505&title_color=FF2D55&text_color=F5F5F5&border_color=8B5CF6" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saif098-bit&layout=compact&hide_border=false&bg_color=ffffff&title_color=FF2D55&text_color=1F2937&border_color=FF2D55" />
+</picture>
 
 <br/><br/>
 
@@ -256,12 +262,12 @@ Open to backend engineering and AI/ML internships, and conversations about agent
 
 <br/><br/>
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsaif098-bit%2Fsaif098-bit.json%3Fcolor%3D8B5CF6&style=for-the-badge&label=VIEWS&labelColor=0B0B0F" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1800&color=8B5CF6&background=00000000&center=true&vCenter=true&width=620&lines=Always+building.+Always+shipping.;Let's+build+something+that+actually+runs." alt="Footer signature" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:1F2937&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:1F2937&height=4" />
 
-<sub>© 2026 Malik Saifullah — Built with intent, not templates.</sub>
+<sub>© 2026 Malik Saifullah</sub>
 
 </div>
