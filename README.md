@@ -1,24 +1,21 @@
 <div align="center">
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="assets/profile.jpg" width="230" style="border-radius:8px;object-fit:cover;" alt="Malik Saifullah" />
-</td>
-<td width="65%">
+
 <h1>MALIK SAIFULLAH</h1>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=FF2D55&background=00000000&center=false&vCenter=true&width=560&lines=AI+Engineer;Backend+Developer;Machine+Learning+Engineer;Agentic+AI+Developer" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1400&color=FF2D55&background=00000000&center=true&vCenter=true&width=330&lines=AI+Engineer;Backend+Developer;Machine+Learning+Engineer;Agentic+AI+Developer" alt="Typing SVG" />
+
 <p style="max-width:520px;">I design and build the backend systems and agentic AI pipelines that turn language models into working software — APIs that run, automations that execute end to end, dashboards that query real data. Engineering first, AI second.</p>
+
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-FF2D55?style=flat-square&labelColor=050505" />
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-3.89%2F4.00-8B5CF6?style=flat-square&labelColor=050505" />
-</td>
-</tr>
-</table>
 
-<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B0B0F?style=for-the-badge&logo=vercel&logoColor=FF2D55" /></a>
-<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
-<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=FF2D55" /></a>
-<a href="https://github.com/saif098-bit"><img src="https://img.shields.io/badge/GITHUB-0B0B0F?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+<br/><br/>
+
+<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/923245508254"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <sub>Abbottabad, Pakistan &nbsp;·&nbsp; University of Haripur &nbsp;·&nbsp; Expected 2027</sub>
 
@@ -47,70 +44,53 @@ Every project below is a working system, not a proof of concept: an API that run
 
 <h2 id="experience">Experience</h2>
 
-<table>
-<tr><td width="150" valign="top"><b>2026 – Present</b></td><td valign="top">
-
-**Backend Engineering Intern** — FlyRank AI
+**01 · Backend Engineering Intern**
+FlyRank AI — 2026 – Present
 Built a CRUD API from scratch on Flask, PostgreSQL, and Supabase, applying REST API design principles under the mentorship of the Director of AI & Analytics. Part of an 8-week structured backend track covering auth, database integration, and API documentation.
-[→ github.com/saif098-bit/backend-engineering-internship](https://github.com/saif098-bit/backend-engineering-internship)
+`Flask` `PostgreSQL` `Supabase`
+[Repository →](https://github.com/saif098-bit/backend-engineering-internship)
 
-</td></tr>
-<tr><td valign="top"><b>Jul – Aug 2026</b></td><td valign="top">
+---
 
-**Data Annotator** — InfinityWave Inc.
+**02 · Machine Learning Intern**
+Arch Technologies — Mar – Apr 2026
+Completed an 8-week Machine Learning Internship and Training Program, gaining practical experience in ML concepts, model development, and data-driven problem solving.
+`Machine Learning` `Python`
+
+---
+
+**03 · Data Annotator**
+InfinityWave Inc. — Jul – Aug 2026
 Labeled and structured datasets for ML model training pipelines; enforced quality-control practices for annotation consistency across large datasets.
 
-</td></tr>
-<tr><td valign="top"><b>Mar – Apr 2026</b></td><td valign="top">
+---
 
-**Machine Learning Intern** — Arch Technologies
-Completed an 8-week Machine Learning Internship and Training Program, gaining practical experience in ML concepts, model development, and data-driven problem solving.
-
-</td></tr>
-<tr><td valign="top"><b>Jul – Aug 2026</b></td><td valign="top">
-
-**Social Work Volunteer** — Al-Khidmat Pakistan
+**04 · Social Work Volunteer**
+Al-Khidmat Pakistan — Jul – Aug 2026
 Community outreach and service-delivery initiatives; developed communication and leadership skills.
 
-</td></tr>
-<tr><td valign="top"><b>2023 – 2027</b></td><td valign="top">
+---
 
-**BS Artificial Intelligence** — University of Haripur
+**05 · BS Artificial Intelligence**
+University of Haripur — 2023 – 2027
 CGPA 3.89 / 4.00. Coursework and independent projects in machine learning, computer vision, and agentic AI.
-
-</td></tr>
-</table>
 
 <br/>
 
 <h2 id="stack">Engineering Stack</h2>
 
-<table>
-<tr>
-<td valign="top" width="20%"><b>AI / ML</b></td>
-<td valign="top">Python · Machine Learning · Computer Vision · Agentic AI · LLMs · Generative AI · Prompt Engineering</td>
-</tr>
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td valign="top">Flask · Flask-SQLAlchemy · Flask-Login · Flask-CORS · REST API Design · Gunicorn / WSGI</td>
-</tr>
-<tr>
-<td valign="top"><b>AI Platforms</b></td>
-<td valign="top">n8n · LangChain · Groq API · OpenAI API · Ollama · Claude (Anthropic)</td>
-</tr>
-<tr>
-<td valign="top"><b>Data</b></td>
-<td valign="top">NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow (fundamentals)</td>
-</tr>
-<tr>
-<td valign="top"><b>Databases</b></td>
-<td valign="top">PostgreSQL · MySQL · SQLite</td>
-</tr>
-<tr>
-<td valign="top"><b>Engineering</b></td>
-<td valign="top">Git · GitHub · Vercel · Render · Railway · C++ · SQL · HTML</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,html,js,ts,nextjs,tailwind,flask,postgres,sqlite,supabase,git,github,vercel&theme=dark" />
+</div>
+
+<br/>
+
+**AI / ML** — Python · Machine Learning · Computer Vision · Agentic AI · LLMs · Generative AI · Prompt Engineering
+**Backend** — Flask · Flask-SQLAlchemy · Flask-Login · Flask-CORS · REST API Design · Gunicorn / WSGI
+**AI Platforms** — n8n · LangChain · Groq API · OpenAI API · Ollama · Claude (Anthropic)
+**Data** — NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow (fundamentals)
+**Databases** — PostgreSQL · MySQL · SQLite · Supabase
+**Engineering** — Git · GitHub · Vercel · Render · Railway · C++ · SQL · HTML
 
 <br/>
 
@@ -181,61 +161,57 @@ Responsive Next.js portfolio with a custom animated hero and a Groq-powered chat
 
 <h2 id="certifications">Certifications</h2>
 
+**Anthropic Academy** — 12 certifications across Claude, AI Fluency, and Claude Code.
 <details open>
-<summary><b>AI, LLMs & Agentic AI — Anthropic Academy</b></summary>
+<summary>View certifications</summary>
 <br/>
 
-| Certificate | Date |
-|---|---|
-| Claude 101 | Jul 2026 |
-| Claude Code 101 | Jul 2026 |
-| Claude Code in Action | Aug 2026 |
-| Introduction to Claude Cowork | Jul 2026 |
-| AI Fluency: Framework & Foundations | Jul 2026 |
-| AI Fluency: AI Capabilities & Limitations | Jul 2026 |
-| AI Fluency for Builders | Aug 2026 |
-| AI Fluency for Students | Jul 2026 |
-| AI Fluency for Small Businesses | Jul 2026 |
-| AI Fluency for Educators | Aug 2026 |
-| AI Fluency for Nonprofits | Aug 2026 |
-| Teaching the AI Fluency Framework | Aug 2026 |
+- Claude 101 — Jul 2026
+- Claude Code 101 — Jul 2026
+- Claude Code in Action — Aug 2026
+- Introduction to Claude Cowork — Jul 2026
+- AI Fluency: Framework & Foundations — Jul 2026
+- AI Fluency: AI Capabilities & Limitations — Jul 2026
+- AI Fluency for Builders — Aug 2026
+- AI Fluency for Students — Jul 2026
+- AI Fluency for Small Businesses — Jul 2026
+- AI Fluency for Educators — Aug 2026
+- AI Fluency for Nonprofits — Aug 2026
+- Teaching the AI Fluency Framework — Aug 2026
 
 </details>
 
+**Microsoft** — 4 certifications in Responsible & Agentic AI.
 <details>
-<summary><b>Responsible & Agentic AI — Microsoft</b></summary>
+<summary>View certifications</summary>
 <br/>
 
-| Certificate | Date |
-|---|---|
-| Design Responsible AI Security, Governance, Risk Management, and Compliance | Jul 2026 |
-| Design AI Agents for Business Solutions | Jul 2026 |
-| Monitor, Analyze, and Tune AI Agents | Jul 2026 |
-| Introduction to Agentic AI Business Solutions | Jul 2026 |
+- Design Responsible AI Security, Governance, Risk Management, and Compliance — Jul 2026
+- Design AI Agents for Business Solutions — Jul 2026
+- Monitor, Analyze, and Tune AI Agents — Jul 2026
+- Introduction to Agentic AI Business Solutions — Jul 2026
 
 </details>
 
+**Prompt Engineering & Other**
 <details>
-<summary><b>Prompt Engineering & Other Certifications</b></summary>
+<summary>View certifications</summary>
 <br/>
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| One Million Prompters | Dubai Centre for Artificial Intelligence (Dubai Future Foundation) | Jun 2026 |
-| Are Prompts The New Programming Language | Volume Up with SES | Jul 2026 |
-| AWS Cloud Club Orientation | AWS Cloud Clubs | May 2026 |
+- One Million Prompters — Dubai Centre for Artificial Intelligence (Dubai Future Foundation), Jun 2026
+- Are Prompts The New Programming Language — Volume Up with SES, Jul 2026
+- AWS Cloud Club Orientation — AWS Cloud Clubs, May 2026
 
 </details>
 
+**Internships & Vocational Training**
 <details>
-<summary><b>Internships & Vocational Training</b></summary>
+<summary>View certifications</summary>
 <br/>
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| Machine Learning Internship (8 weeks) | Arch Technologies | Mar – Apr 2026 |
-| Cybersecurity Internship (6 weeks) | Technik Nest (Pvt.) Ltd. | Sep 2025 |
-| Graphic Designing (UI/UX Designer) — A+ grade | NAVTTC, Prime Minister's Youth Skills Development Program | Sep 2023 |
+- Machine Learning Internship (8 weeks) — Arch Technologies, Mar – Apr 2026
+- Cybersecurity Internship (6 weeks) — Technik Nest (Pvt.) Ltd., Sep 2025
+- Graphic Designing (UI/UX Designer), A+ grade — NAVTTC, Prime Minister's Youth Skills Development Program, Sep 2023
 
 </details>
 
@@ -256,13 +232,16 @@ Expected Graduation: 2027 · CGPA: 3.89 / 4.00
 
 Open to backend engineering and AI/ML internships, and conversations about agentic AI or LLM-powered systems.
 
-<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=FF2D55" /></a>
-<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B0B0F?style=for-the-badge&logo=vercel&logoColor=FF2D55" /></a>
-<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+Prefer to talk directly? Reach out on WhatsApp, email, or connect on LinkedIn — I usually respond within a day.
 
-<br/><br/>
+<a href="mailto:saifullahmalik503@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-six-plum-87.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saifullah-ai-enginner/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/923245508254"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1800&color=8B5CF6&background=00000000&center=true&vCenter=true&width=620&lines=Always+building.+Always+shipping.;Let's+build+something+that+actually+runs." alt="Footer signature" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1800&color=8B5CF6&background=00000000&center=true&vCenter=true&width=360&lines=Always+building.+Always+shipping.;Let's+build+something+that+actually+runs." alt="Footer signature" />
 
 <br/><br/>
 
