@@ -72,7 +72,14 @@ Community outreach and service-delivery initiatives; developed communication and
 
 ---
 
-**05 · BS Artificial Intelligence**
+**05 · Cybersecurity Intern**  
+Technik Nest (Private Limited) — Jul – Aug 2025  
+Completed a 6-week Cybersecurity Internship focused on identifying security vulnerabilities and implementing security protocols, gaining practical exposure to cybersecurity concepts and practices.
+`Cybersecurity` `Vulnerability Assessment` `Security Protocols`
+
+---
+
+**06 · BS Artificial Intelligence**
 University of Haripur — 2023 – 2027
 CGPA 3.89 / 4.00. Coursework and independent projects in machine learning, computer vision, and agentic AI.
 
