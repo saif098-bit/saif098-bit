@@ -131,6 +131,10 @@ Responsive Next.js portfolio with a custom animated hero and a Groq-powered chat
 `Next.js` `TypeScript` `Tailwind CSS` `Groq API`
 [→ Repository](https://github.com/saif098-bit/Portfolio) · [Live](https://portfolio-six-plum-87.vercel.app)
 
+**Heart Disease Prediction (ML Pipeline)**
+End-to-end machine learning pipeline that predicts heart disease from patient data using an SVM classifier, achieving **91.3% test accuracy**, with data preprocessing, missing-value handling, feature encoding, scaling, model training, and evaluation.
+`Python` `Pandas` `NumPy` `Scikit-learn` `SVM`
+
 </details>
 
 <br/>
