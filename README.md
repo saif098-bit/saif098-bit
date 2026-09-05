@@ -112,6 +112,11 @@ End-to-end machine learning pipeline that predicts heart disease from patient da
 `Python` `Pandas` `NumPy` `Scikit-learn` `SVM`
 [→ Repository](https://github.com/saif098-bit/infinity-wave-internship/tree/main/heart-disease-prediction)
 
+**AI Image Understanding & Content Matching Engine**
+Production-grade backend service that analyzes image libraries using Vision AI, generates semantic vector embeddings, and matches images to blog posts using **PostgreSQL + pgvector**, with a **3-layer Mismatch Guard** that rejects incorrect or low-confidence matches with human-readable explanations.
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Vision AI` `Vector Embeddings`
+[→ Repository](https://github.com/saif098-bit/backend-engineering-internship/tree/main/Capstone)
+
 <details>
 <summary><b>Other Projects</b></summary>
 <br/>
