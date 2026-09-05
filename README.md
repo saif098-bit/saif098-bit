@@ -44,43 +44,43 @@ Every project below is a working system, not a proof of concept: an API that run
 
 <h2 id="experience">Experience</h2>
 
-**01 · Backend Engineering Intern**
-FlyRank AI — 2026 – Present
-Built a CRUD API from scratch on Flask, PostgreSQL, and Supabase, applying REST API design principles under the mentorship of the Director of AI & Analytics. Part of an 8-week structured backend track covering auth, database integration, and API documentation.
-`Flask` `PostgreSQL` `Supabase`
+**01 · Backend Engineering Intern**<br>
+FlyRank AI — 2026 – Present<br>
+Built a CRUD API from scratch on Flask, PostgreSQL, and Supabase, applying REST API design principles under the mentorship of the Director of AI & Analytics. Part of an 8-week structured backend track covering auth, database integration, and API documentation.<br>
+`Flask` `PostgreSQL` `Supabase`<br>
 [Repository →](https://github.com/saif098-bit/backend-engineering-internship)
 
 ---
 
-**02 · Machine Learning Intern**
-Arch Technologies — Mar – Apr 2026
-Completed an 8-week Machine Learning Internship and Training Program, gaining practical experience in ML concepts, model development, and data-driven problem solving.
+**02 · Machine Learning Intern**<br>
+Arch Technologies — Mar – Apr 2026<br>
+Completed an 8-week Machine Learning Internship and Training Program, gaining practical experience in ML concepts, model development, and data-driven problem solving.<br>
 `Machine Learning` `Python`
 
 ---
 
-**03 · Data Annotator**
-InfinityWave Inc. — Jul – Aug 2026
-Labeled and structured datasets for ML model training pipelines; enforced quality-control practices for annotation consistency across large datasets.
+**03 · Data Annotator**<br>
+InfinityWave Inc. — Jul – Aug 2026<br>
+Labeled and structured datasets for ML model training pipelines; enforced quality-control practices for annotation consistency across large datasets.<br>
 [Repository →](https://github.com/saif098-bit/infinity-wave-internship)
 
 ---
 
-**04 · Social Work Volunteer**
-Al-Khidmat Pakistan — Jul – Aug 2026
+**04 · Social Work Volunteer**<br>
+Al-Khidmat Pakistan — Jul – Aug 2026<br>
 Community outreach and service-delivery initiatives; developed communication and leadership skills.
 
 ---
 
-**05 · Cybersecurity Intern**  
-Technik Nest (Private Limited) — Jul – Aug 2025  
-Completed a 6-week Cybersecurity Internship focused on identifying security vulnerabilities and implementing security protocols, gaining practical exposure to cybersecurity concepts and practices.
+**05 · Cybersecurity Intern**<br>
+Technik Nest (Private Limited) — Jul – Aug 2025<br>
+Completed a 6-week Cybersecurity Internship focused on identifying security vulnerabilities and implementing security protocols, gaining practical exposure to cybersecurity concepts and practices.<br>
 `Cybersecurity` `Vulnerability Assessment` `Security Protocols`
 
 ---
 
-**06 · BS Artificial Intelligence**
-University of Haripur — 2023 – 2027
+**06 · BS Artificial Intelligence**<br>
+University of Haripur — 2023 – 2027<br>
 CGPA 3.89 / 4.00. Coursework and independent projects in machine learning, computer vision, and agentic AI.
 
 <br/>
