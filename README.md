@@ -102,10 +102,16 @@ An n8n workflow that polls Gmail, classifies each message as an order or an inqu
 `n8n` `Groq (Llama 3.1)` `LangChain` `Google Sheets`
 [→ Repository](https://github.com/saif098-bit/AI-Email-Automation-Agent)
 
-**Smart Medicine Inventory System**
-Full-stack pharmacy inventory platform: real-time dashboards flagging expired and low-stock items, an AI assistant chatbot (OpenAI with Groq fallback), and DSA-based visualizations (stack/queue/priority queue) for undo history — shipped as an offline-capable PWA.
-`Python` `Flask` `SQLAlchemy` `SQLite` `OpenAI` `Groq`
-[→ Repository](https://github.com/saif098-bit/smart-medicine-system)
+**Personal Portfolio**
+Responsive Next.js portfolio with a custom animated hero and a Groq-powered chatbot answering visitor questions from the site's own content.
+`Next.js` `TypeScript` `Tailwind CSS` `Groq API`
+[→ Repository](https://github.com/saif098-bit/Portfolio) · [Live](https://portfolio-six-plum-87.vercel.app)
+
+**Heart Disease Prediction (ML Pipeline)**
+End-to-end machine learning pipeline that predicts heart disease from patient data using an SVM classifier, achieving **91.3% test accuracy**, with data preprocessing, missing-value handling, feature encoding, scaling, model training, and evaluation.
+`Python` `Pandas` `NumPy` `Scikit-learn` `SVM`
+https://github.com/saif098-bit/infinity-wave-internship/tree/main/heart-disease-prediction
+[→ Repository](https://github.com/saif098-bit/infinity-wave-internship/tree/main/heart-disease-prediction)
 
 <details>
 <summary><b>Other Projects</b></summary>
@@ -116,6 +122,11 @@ Role-based (admin/teacher/student) attendance platform with Flask-Login authenti
 `Python` `Flask` `PostgreSQL` `Matplotlib`
 [→ Repository](https://github.com/saif098-bit/Smart-Attendance-System)
 
+**Smart Medicine Inventory System**
+Full-stack pharmacy inventory platform: real-time dashboards flagging expired and low-stock items, an AI assistant chatbot (OpenAI with Groq fallback), and DSA-based visualizations (stack/queue/priority queue) for undo history — shipped as an offline-capable PWA.
+`Python` `Flask` `SQLAlchemy` `SQLite` `OpenAI` `Groq`
+[→ Repository](https://github.com/saif098-bit/smart-medicine-system)
+
 **AI Hotel Assistant Chatbot**
 Flask chatbot answering hotel FAQs via fuzzy string matching against a SQLite knowledge base, falling back to a locally hosted LLM (Ollama — Phi-3/Mistral) for open-ended queries, with logging for continuous FAQ improvement.
 `Python` `Flask` `SQLite` `Ollama`
@@ -125,15 +136,6 @@ Flask chatbot answering hotel FAQs via fuzzy string matching against a SQLite kn
 Flask REST API with a thread-safe FCFS scheduler that queues and dispatches orders across simulated virtual machines, exposing live waiting-time, response-time, and throughput metrics for serverless and WSGI deployment.
 `Python` `Flask` `Threading` `Gunicorn`
 [→ Repository](https://github.com/saif098-bit/FCFS-Scheduling)
-
-**Personal Portfolio**
-Responsive Next.js portfolio with a custom animated hero and a Groq-powered chatbot answering visitor questions from the site's own content.
-`Next.js` `TypeScript` `Tailwind CSS` `Groq API`
-[→ Repository](https://github.com/saif098-bit/Portfolio) · [Live](https://portfolio-six-plum-87.vercel.app)
-
-**Heart Disease Prediction (ML Pipeline)**
-End-to-end machine learning pipeline that predicts heart disease from patient data using an SVM classifier, achieving **91.3% test accuracy**, with data preprocessing, missing-value handling, feature encoding, scaling, model training, and evaluation.
-`Python` `Pandas` `NumPy` `Scikit-learn` `SVM`
 
 </details>
 
