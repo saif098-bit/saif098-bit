@@ -62,6 +62,7 @@ Completed an 8-week Machine Learning Internship and Training Program, gaining pr
 **03 · Data Annotator**<br>
 InfinityWave Inc. — Jul – Aug 2026<br>
 Labeled and structured datasets for ML model training pipelines; enforced quality-control practices for annotation consistency across large datasets.<br>
+`CVAT` `Data Annotation` `Image Labeling` `Quality Control`<br>
 [Repository →](https://github.com/saif098-bit/infinity-wave-internship)
 
 ---
