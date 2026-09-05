@@ -172,23 +172,31 @@ Flask REST API with a thread-safe FCFS scheduler that queues and dispatches orde
 
 <h2 id="certifications">Certifications</h2>
 
-**Anthropic Academy** — 12 certifications across Claude, AI Fluency, and Claude Code.
+**Anthropic Academy** — 20 certifications across Claude, AI Fluency, and Claude Code.
 <details open>
 <summary>View certifications</summary>
 <br/>
 
 - Claude 101 — Jul 2026
-- Claude Code 101 — Jul 2026
-- Claude Code in Action — Aug 2026
-- Introduction to Claude Cowork — Jul 2026
 - AI Fluency: Framework & Foundations — Jul 2026
+- Introduction to Claude Cowork — Jul 2026
 - AI Fluency: AI Capabilities & Limitations — Jul 2026
-- AI Fluency for Builders — Aug 2026
 - AI Fluency for Students — Jul 2026
 - AI Fluency for Small Businesses — Jul 2026
-- AI Fluency for Educators — Aug 2026
-- AI Fluency for Nonprofits — Aug 2026
+- Model Context Protocol: Advanced Topics — Aug 2026
+- Introduction to subagents — Aug 2026
+- Introduction to Model Context Protocol — Aug 2026
+- Introduction to agent skills — Aug 2026
+- Claude Platform 101 — Aug 2026
+- Claude with Google Vertex AI — Aug 2026
+- Claude with Amazon Bedrock — Aug 2026
+- Claude with the Anthropic API — Aug 2026
 - Teaching the AI Fluency Framework — Aug 2026
+- AI Fluency for Educators — Aug 2026
+- Claude Code in Action — Aug 2026
+- Claude Code 101 — Aug 2026
+- AI Fluency for nonprofits — Aug 2026
+- AI Fluency for Builders — Aug 2026
 
 </details>
 
