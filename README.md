@@ -62,6 +62,7 @@ Completed an 8-week Machine Learning Internship and Training Program, gaining pr
 **03 · Data Annotator**
 InfinityWave Inc. — Jul – Aug 2026
 Labeled and structured datasets for ML model training pipelines; enforced quality-control practices for annotation consistency across large datasets.
+[Repository →](https://github.com/saif098-bit/backend-engineering-internship)
 
 ---
 
